@@ -32,9 +32,12 @@ Offline Support: Even if the device goes offline, users can still view their pas
 
 **Screenshots**
 Match Cards - 
-![Simulator Screenshot - iPhone 16 Pro - 2024-12-24 at 14 10 40](https://github.com/user-attachments/assets/c170a42e-3f04-4950-89ba-1be76963f415)
-![Simulator Screenshot - iPhone 16 Pro - 2024-12-24 at 14 10 35](https://github.com/user-attachments/assets/db22dba7-53b0-43e6-a4fc-b8dc3f0ab03c)
+![Simulator Screenshot - iPhone SE (3rd generation) - 2024-12-25 at 11 46 31](https://github.com/user-attachments/assets/f8dd9951-0d5c-4662-aee8-0dfb03b28cfd)
 
 
 User Decisions - 
-![Simulator Screenshot - iPhone 16 Pro - 2024-12-24 at 14 10 58](https://github.com/user-attachments/assets/42fef2a5-aab9-4136-85d8-717f5ee40704)
+
+![Simulator Screenshot - iPhone SE (3rd generation) - 2024-12-25 at 11 46 37](https://github.com/user-attachments/assets/e2e0ab88-b660-4cc9-b963-95c9167f6b68)
+
+
+![Simulator Screenshot - iPhone SE (3rd generation) - 2024-12-25 at 11 46 34](https://github.com/user-attachments/assets/66b7f678-7529-4d7f-938b-6b2375f829fc)
