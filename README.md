@@ -41,3 +41,9 @@ User Decisions -
 
 
 ![Simulator Screenshot - iPhone SE (3rd generation) - 2024-12-25 at 11 46 34](https://github.com/user-attachments/assets/66b7f678-7529-4d7f-938b-6b2375f829fc)
+
+
+
+
+**NOTE**
+Additionally, I have implemented a DetailView feature. On the ListingPage, users can **double-tap** on any profile to navigate directly to the corresponding DetailView, where they can explore detailed information about that specific profile
